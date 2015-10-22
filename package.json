@@ -1,0 +1,19 @@
+{
+  "name": "browserify-test",
+  "version": "0.0.0",
+  "description": "Test repo for [browserify](http://browserify.org/).",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takoba/browserify-test.git"
+  },
+  "author": "takoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takoba/browserify-test/issues"
+  },
+  "homepage": "https://github.com/takoba/browserify-test#readme"
+}
